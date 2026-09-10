@@ -72,9 +72,9 @@ try:
     URLS;=
     https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/PERTS/convert_videos.py
     https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/PERTS/get_point_screen.py
-    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/license_and_TOS_and_README/LICENSE
-    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/license_and_TOS_and_README/README.md
-    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/license_and_TOS_and_README/TOS.txt
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/stuff/LICENSE
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/stuff/TOS.txt
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/stuff/README.md
     PATHS;=
     {perts_files["convert_path"]}
     {perts_files["get_point_screen_path"]}

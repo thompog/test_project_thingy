@@ -1,0 +1,15 @@
+
+    URLS;=
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/PERTS/convert_videos.py
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/PERTS/get_point_screen.py
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/license_and_TOS_and_README/LICENSE
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/license_and_TOS_and_README/README.md
+    https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/license_and_TOS_and_README/TOS.txt
+    PATHS;=
+    C:\Users\thoma\AppData\Local\main\PERTS\convert_videos.py
+    C:\Users\thoma\AppData\Local\main\PERTS\get_point_screen.py
+    C:\Users\thoma\AppData\Local\main\stuff\LICENSE
+    C:\Users\thoma\AppData\Local\main\stuff\TOS.txt
+    C:\Users\thoma\AppData\Local\main\stuff\README.md
+    EOF;;
+    

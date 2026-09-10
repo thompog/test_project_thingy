@@ -1,0 +1,39 @@
+Terms of Service
+Last updated: 2026-09-10
+
+By using this software ("the Program"), created by thompog, you agree to the following terms:
+
+1. License
+   The Program is provided under the MIT License included alongside this file (see LICENSE).
+   You may use, copy, modify, and distribute it under the terms of that license.
+
+2. No Warranty
+   The Program is provided "AS IS", without warranty of any kind, express or implied. Use it
+   at your own risk. thompog is not responsible for any damage, data loss, or other issues
+   that result from using the Program.
+
+3. What the Program Does
+   - Converts local video/audio files between formats using ffmpeg.
+   - Locates images on your screen and can move/click your mouse at the matched location.
+   These features run entirely on your own computer. The Program does not collect, transmit,
+   or upload your files, screenshots, or personal data anywhere.
+
+4. Automation & Screen Control
+   The screen-locating and auto-click features simulate mouse input. You are responsible for
+   how and where you use this automation, including compliance with the terms of service of
+   any third-party application you use it with.
+
+5. Third-Party Tools
+   The Program relies on third-party tools/libraries (such as ffmpeg, pyautogui, pynput,
+   opencv-python) which may be downloaded automatically. Their own licenses apply to their use.
+
+6. Changes
+   These Terms may be updated over time. Continuing to use the Program after an update means
+   you accept the revised Terms.
+
+7. Acceptance
+   You must check the "I have read and agree" box shown on first launch to use the Program.
+   If you do not agree, close the Program and do not use it.
+
+Contact: thompog (GitHub: https://github.com/thompog)
+

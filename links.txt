@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/PERTS/convert_videos.py
+https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/PERTS/get_point_screen.py
+https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/stuff/LICENSE
+https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/stuff/TOS.txt
+https://raw.githubusercontent.com/thompog/test_project_thingy/refs/heads/main/stuff/README.md
+
+inst=https://github.com/thompog/installer-helper/releases/download/versions/installer.helper.exe
